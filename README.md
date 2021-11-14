@@ -6,10 +6,10 @@
 - 🌱 J'apprends actuellement (I’m currently learning) `.js` , `.html` , `.css`.
 - 🤔 Je cherche de l'aide pour apprendre et à utiliser github (I'm looking for help learning and using github).
 - 📫 Comment me joindre (How to reach me) : 
-<p align="center">
-<a href="https://github.com/DIO-David1327" target="brank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://discord.com/channels/838203647028232213" target="blank"><img alt="Discord" src="https://img.shields.io/badge/-DIO--TOOLS--David1327-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/><img alt="" src="https://img.shields.io/discord/838203647028232213?label=%20&style=for-the-badge"/></a>
-<a href="https://fb.com/TutoDeDavid1327" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIO-David1327) 
+[![Discord](https://img.shields.io/discord/838203647028232213?color=25237289DA&label=DIO%20TOOLS%20David1327&labelColor=%237289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Q7WXtmRNRW)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/TutoDeDavid1327) 
 
 
 
